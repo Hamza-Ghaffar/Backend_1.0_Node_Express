@@ -1,0 +1,31 @@
+{
+  "type": "module",
+  "name": "backend_1.0_express",
+  "version": "1.0.0",
+  "description": "Build a backend with express framework.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamza-Ghaffar/Backend_1.0_Node_Express.git"
+  },
+  "keywords": [
+    "express",
+    "javascript",
+    "backend",
+    "git"
+  ],
+  "author": "Hamza Ghaffar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamza-Ghaffar/Backend_1.0_Node_Express/issues"
+  },
+  "homepage": "https://github.com/Hamza-Ghaffar/Backend_1.0_Node_Express#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
+
